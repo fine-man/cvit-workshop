@@ -62,5 +62,13 @@ experiments
 ### Session 2
 - Image Captioning using Clip and GPT
 
-## Day 7 - Reading an Analog clock
+## Day 7 - Reading an Analog clock and Adda tutorial
 - Date : 29th May 2023
+
+### Session 1
+- Introductory session on CNN
+- Analog clock reading using MLP
+- Analog clock reading using CNN
+
+### Session 2
+- Adda cluster tutorial
